@@ -1,0 +1,20 @@
+.profile{
+    width: 275px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#welcome{
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: aqua;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+
+body{
+    text-align: center;
+}
